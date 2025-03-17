@@ -10,3 +10,5 @@ https://fmhy.net/devtools#html - resources for html
 https://github.com/codexll0/mediaweb - the source code
 
 https://codexll0.github.io/mediaweb/ - website itself
+
+https://youtu.be/tRZGeaHPoaw?si=_QGuQ25suWCVuVan - learn git / github
