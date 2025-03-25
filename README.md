@@ -1,9 +1,11 @@
 # mediaweb
-repository for hosting my website
+repository for hosting a group project
 
 Resources:
 
-https://htmlreference.io/ - guide for html (or just use the Q4 module)
+https://learn.shayhowe.com/ - learn html & css (or just use G8 Q4 Module)
+
+https://htmlreference.io/ - cheatsheet for html 
 
 https://fmhy.net/devtools#html - resources for html
 
