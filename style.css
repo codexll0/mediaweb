@@ -1,3 +1,6 @@
+.background {
+	background: lightblue;
+}
 .homepagetext {
 	margin: auto;
 	margin-top: 10px;
@@ -6,39 +9,58 @@
     height: 35px;
     width: 140px;
     background-color: black;
-    color: yellow;
+    color: aqua;
 }
 .homepagebody {
-	margin: 5px 0px ;
-	padding-left: 430px;
+	margin: 5px 430px ;
+	padding-left: 0px;
 }
 .aboutustext {
 	margin: auto;
-	margin-top: 20px;
+	margin-top: 30px;
 	margin-bottom: 10px;
     padding-left: 6px;
     height: 35px;
     width: 145px;
     background-color: black;
-    color: yellow;
+    color: aqua;
 }
 .aboutusbody {
-	margin: 2px 0px ;
-	padding-left: 430px;
+	margin: 2px 430px;
+	padding-left: 0px;
 }
-.aboutusbodyalt {
-	margin: auto ;
-	margin-top: 5
-	margin-top: 150px;
-	padding-left: 430px;
+.aboutuslinks {
+	margin: 2px 430px;
+	margin-top: 30px;		
+	padding-left: 125px;
 }
-.footing  ; 
-    margin: auto;
-	margin-top: 10px;
+.resources {
+	margin: auto;
+	margin-top: 30px;
 	margin-bottom: 10px;
-    padding-left: 6px
-    heighht	: 35px;
-    width: 140px;
+    padding-left: 6px;
+    height: 35px;
+    width: 145px;
     background-color: black;
-    color: yellow;
+    color: aqua;
+}
+.resourcestext {
+	margin: 2px 430px;
+	margin-top: 30px;
+	padding-left: 90px;
+}
+.footing { 
+    margin: auto;
+	margin-top: 30px;
+	margin-bottom: 10px;
+    padding-left: 6px;
+	height: 39px;
+    width: 493px;
+    background-color: black;
+    color: aqua;
+}
+.cl {
+	margin: 2px 580px;
+	margin-top: 30px;
+	padding-left: 75px;
 }
