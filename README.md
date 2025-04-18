@@ -1,6 +1,9 @@
 # mediaweb
 repository for hosting a group project
 
+# THIS PROJECT IS DONE/CANCELLED
+this repository is no longer needed to be used and is archived
+
 Resources:
 
 https://learn.shayhowe.com/ - learn html & css (or just use G8 Q4 Module)
